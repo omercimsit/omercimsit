@@ -1,6 +1,6 @@
 # Hey, I'm Ömer 👋
 
-Game Development & Web Development student based in Germany.
+Game Development & Software Development student based in Germany.
 
 ---
 
